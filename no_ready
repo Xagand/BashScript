@@ -1,0 +1,7 @@
+#!/bin/bash
+
+
+
+echo "Checking..."
+touch list3
+echo "Create list3 on Desktop"
